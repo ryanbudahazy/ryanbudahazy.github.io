@@ -17,8 +17,3 @@ body, html {
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
-
-.w3-col {
-    display: inline-block;
-    vertical-align: middle;
-  }
